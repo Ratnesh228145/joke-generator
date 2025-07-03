@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(132, 200, 188);
+}
+
+.joke{
+    background-color: rgb(83, 228, 161);
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: auto;
+    margin-top: 15rem;
+    margin-left: 12rem;
+    margin-right: 12rem;
+    display: flex;
+    flex-direction: column;
+    color: rgba(211, 4, 4, 0.949);
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: beige;
+}
